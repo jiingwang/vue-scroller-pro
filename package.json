@@ -1,5 +1,5 @@
 {
-  "name": "vue-scroller",
+  "name": "vue-scroller-pro",
   "version": "2.2.4",
   "description": "Vue component for smooth scrolling, pull to refresh & infinite loading.(fork from  https://github.com/wangdahoo/vue-scroller and do some change on this project, thanks to author(wangdahoo <157195705@qq.com>))",
   "main": "dist/vue-scroller.min.js",
@@ -20,7 +20,8 @@
     "pulltorefresh",
     "pull to refresh",
     "pull-to-refresh",
-    "infinite load"
+    "infinite load",
+    "vue-scroller-pro"
   ],
   "dependencies": {
     "vue": "^2.2.6"
